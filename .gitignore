@@ -1,0 +1,9 @@
+# Compiled simulation executables
+simulation/traffic_light_sim
+simulation/traffic_light_compile
+simulation/traffic_light_synth_sim
+
+# Temporary files
+*.o
+*.out
+*.log~
