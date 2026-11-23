@@ -57,6 +57,10 @@ Traffic_Light_Controller/
 │   └── yosys_synthesis.log
 ├── waveforms/
 │   └── traffic_light.vcd
+├── docs/
+│   ├── PROJECT_REPORT.md
+│   └── screenshots/
+│       └── traffic_light_waveform.png
 ├── scripts/
 │   └── run_simulation.sh
 ├── .gitignore
